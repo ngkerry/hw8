@@ -1,0 +1,12 @@
+a. What line of code waits one and a half seconds?
+delay(1500);
+
+b. Why does a resistor need an LED? (You mean, why does an LED need a resistor?)
+Resistors help limiting the amount of power an LED receives, because LED’s will draw all the power that’s provided to them. Without a connected resistor, the LED would receive too much power and burn out. 
+
+c. Why is a breadboard useful?
+The breadboard facilitates the process of building circuits by allowing you to connect wires without having to solder.
+
+d. Identify at least least 2 things you did not understand from the reading
+1. What are all the different resistor’s for? 
+2. What do all the different colored stripes in the resistors represent?  
